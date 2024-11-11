@@ -19,6 +19,8 @@ La estructura de Mi Blog Viajero sigue una disposición básica que incluye una 
 ### Visualización
 A continuación se muestra un bosquejo visual de la estructura de la página. Cada sección se presenta de manera que el usuario pueda encontrar rápidamente la información que busca, con énfasis en imágenes y gráficos atractivos.
 
+![Blog](https://github.com/user-attachments/assets/ead32835-05c8-4c44-97ca-e060e70666c4)
+
 ### Tecnologías Empleadas
 Se emplearon las siguientes tecnologías para el desarrollo de Mi Blog Viajero:
 
