@@ -1,4 +1,4 @@
-# Documentación Landing page Blog Viajero
+# Landing page Blog Viajero
 
 ## Índice de Contenido
 1. [Introducción](#introducción)
