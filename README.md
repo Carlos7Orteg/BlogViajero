@@ -32,4 +32,4 @@ La codificación del Landing page se realizó empleando HTML para definir la est
 
 ### Despliegue
 Landing page fue desplegada en un servidor web accesible a través de un dominio público. Se utilizaron herramientas de control de versiones para el seguimiento de cambios y optimización del código.
-- [Landing page](blog-viajero-891652.netlify.app)
+- <a href="https://blog-viajero-891652.netlify.app" target="_blank">Landing page</a>.
